@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Translator", "WindowsFormPrograms\Language Translator.csproj", "{66518B5E-624E-46DB-9F53-4EF7FC307C56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card Flip", "Card Flip\Card Flip.csproj", "{65639914-7955-4056-9C1D-AC72CF2037C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66518B5E-624E-46DB-9F53-4EF7FC307C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66518B5E-624E-46DB-9F53-4EF7FC307C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66518B5E-624E-46DB-9F53-4EF7FC307C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65639914-7955-4056-9C1D-AC72CF2037C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65639914-7955-4056-9C1D-AC72CF2037C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65639914-7955-4056-9C1D-AC72CF2037C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65639914-7955-4056-9C1D-AC72CF2037C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
