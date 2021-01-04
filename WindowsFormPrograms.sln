@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card Flip", "Card Flip\Card
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latin Translator", "Latin Translator\Latin Translator.csproj", "{B1148BB9-26E9-4F9C-B86D-E4FAEB017636}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clickable Number Images", "Clickable Number Images\Clickable Number Images.csproj", "{234B3D79-4AEC-46C5-8C89-E3884FF80431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B1148BB9-26E9-4F9C-B86D-E4FAEB017636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1148BB9-26E9-4F9C-B86D-E4FAEB017636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1148BB9-26E9-4F9C-B86D-E4FAEB017636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234B3D79-4AEC-46C5-8C89-E3884FF80431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B3D79-4AEC-46C5-8C89-E3884FF80431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B3D79-4AEC-46C5-8C89-E3884FF80431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B3D79-4AEC-46C5-8C89-E3884FF80431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
