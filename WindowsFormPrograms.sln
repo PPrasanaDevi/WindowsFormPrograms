@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birth Date String", "Birth 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatin Fuel Economy", "Calculatin Fuel Economy\Calculatin Fuel Economy.csproj", "{C7A72FD0-BF23-46A2-9291-796403D997B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency Formatting", "Currency Formatting\Currency Formatting.csproj", "{9AB46C32-25D6-48F9-9606-971422E1EEA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
