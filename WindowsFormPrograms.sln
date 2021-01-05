@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display FullName", "Display
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birth Date String", "Birth Date String\Birth Date String.csproj", "{F0F96536-9D24-488E-A43B-199DC57D428F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatin Fuel Economy", "Calculatin Fuel Economy\Calculatin Fuel Economy.csproj", "{C7A72FD0-BF23-46A2-9291-796403D997B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F0F96536-9D24-488E-A43B-199DC57D428F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0F96536-9D24-488E-A43B-199DC57D428F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0F96536-9D24-488E-A43B-199DC57D428F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A72FD0-BF23-46A2-9291-796403D997B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
