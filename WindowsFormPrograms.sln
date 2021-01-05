@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion Constellation", "Orio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display FullName", "Display FullName\Display FullName.csproj", "{C1985EE7-E48C-4D5E-BE60-BD10AA1B0E1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birth Date String", "Birth Date String\Birth Date String.csproj", "{F0F96536-9D24-488E-A43B-199DC57D428F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C1985EE7-E48C-4D5E-BE60-BD10AA1B0E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1985EE7-E48C-4D5E-BE60-BD10AA1B0E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1985EE7-E48C-4D5E-BE60-BD10AA1B0E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F96536-9D24-488E-A43B-199DC57D428F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F96536-9D24-488E-A43B-199DC57D428F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F96536-9D24-488E-A43B-199DC57D428F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F96536-9D24-488E-A43B-199DC57D428F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
