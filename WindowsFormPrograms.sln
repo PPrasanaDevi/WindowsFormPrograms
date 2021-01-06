@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatin Fuel Economy", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency Formatting", "Currency Formatting\Currency Formatting.csproj", "{9AB46C32-25D6-48F9-9606-971422E1EEA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Average Application", "Test Average Application\Test Average Application.csproj", "{05C9071F-ED6E-4A9C-B7F8-21042A2E3DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB46C32-25D6-48F9-9606-971422E1EEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C9071F-ED6E-4A9C-B7F8-21042A2E3DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C9071F-ED6E-4A9C-B7F8-21042A2E3DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C9071F-ED6E-4A9C-B7F8-21042A2E3DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C9071F-ED6E-4A9C-B7F8-21042A2E3DAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
