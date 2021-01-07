@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature Converter", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll with Overtime", "Payroll with Overtime\Payroll with Overtime.csproj", "{3144DCB6-8A9A-4234-9F93-EEB36AC867E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loan Qualifier", "Loan Qualifier\Loan Qualifier.csproj", "{6B966A37-830E-4B5E-A4C7-CDC7E61AF551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3144DCB6-8A9A-4234-9F93-EEB36AC867E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3144DCB6-8A9A-4234-9F93-EEB36AC867E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3144DCB6-8A9A-4234-9F93-EEB36AC867E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B966A37-830E-4B5E-A4C7-CDC7E61AF551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B966A37-830E-4B5E-A4C7-CDC7E61AF551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B966A37-830E-4B5E-A4C7-CDC7E61AF551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B966A37-830E-4B5E-A4C7-CDC7E61AF551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
